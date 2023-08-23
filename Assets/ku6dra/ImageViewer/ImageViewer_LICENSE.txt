@@ -1,0 +1,7 @@
+* ImageViewer
+Copyright (c) 2023 ku6dra
+Released under the MIT License. see https://opensource.org/licenses/MIT
+
+* PixelStandard
+Copyright (c) 2021 s-ilent
+Released under the MIT License. see https://opensource.org/licenses/MIT
