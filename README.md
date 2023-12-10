@@ -11,13 +11,11 @@ A Synced Image Loading System for VRCSDK3 Worlds.
 
 ## Requirements
 ### VRChat Client Version
-- 2023.1.2p4 Build 1290 (2023-03-22)
-- 2023.3.2 Build 1340 (2023-08-22)
-
-### VPM
-- VRChat SDK - Base v3.1.11, v3.2.3 (or later)
-- VRChat SDK - Worlds v3.1.11, v3.2.3 (or later)
-- UdonSharp v1.1.7, v1.1.9 (or later)
+- 2023.4.2p2 Build 1390 (2023-12-06)
+### SDK
+- Unity 2022.3.6f1
+- VRChat SDK - Base v3.5.0
+- VRChat SDK - Worlds v3.5.0
 
 Compatibility with future updates is not guaranteed.
 
